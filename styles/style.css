@@ -39,7 +39,7 @@ padding:  10px;
 }
 .quentin {
     width: 360px;
-    background-image: url(/img/quentin.png);
+    background-image: url(/kinoarea/img/quentin.png);
     background-size: 360px;
 }
 .p-person .minP {
@@ -70,7 +70,7 @@ padding:  10px;
 }
 .jason {
     width: 360px;
-    background-image: url(/img/jason.png);
+    background-image: url(/kinoarea/img/jason.png);
     background-size: 360px;
 }
 
@@ -141,7 +141,7 @@ padding:  10px;
     height: 770px;
     padding: 30px;
     border-radius: 10px;
-    background-image: url(/img/bond.png);
+    background-image: url(/kinoarea/img/bond.png);
     
 }
 .data-active {
@@ -193,17 +193,17 @@ padding:  10px;
     margin-top: 100px;
 }
 .sonic {
-    background-image: url(/img/sonic.png);
+    background-image: url(/kinoarea/img/sonic.png);
 }
 .bond {
     padding: 0;
-    background-image: url(/img/bondMINI.png);
+    background-image: url(/kinoarea/img/bondMINI.png);
 }
 .glass {
-    background-image: url(/img/hack.png);
+    background-image: url(/kinoarea/img/hack.png);
 }
 .sahara {
-    background-image: url(/img/sahara.png);
+    background-image: url(/kinoarea/img/sahara.png);
 }
 .blue {
     width: 250px;
